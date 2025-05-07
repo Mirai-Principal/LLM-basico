@@ -8,5 +8,6 @@ Un chatbot simple en español basado en embeddings con TensorFlow y similitud de
 - Corpus expandible con respuestas personalizadas
 - Devuelve múltiples respuestas más similares
 
-Esto solo es algo basico para entender como funcionaria :D
+Esto solo es algo basico para entender como funcionaria :D.
+
 No olvides cargar el dataset y si es posible ampliarlo para mejorar la respuesta
