@@ -1,4 +1,4 @@
-# Embedding Chatbot en Español
+# LLM Basico
 
 Un chatbot simple en español basado en embeddings con TensorFlow y similitud de coseno. El bot responde de forma contextual a frases del usuario usando un corpus de entrenamiento.
 
